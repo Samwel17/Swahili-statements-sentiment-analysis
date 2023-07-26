@@ -1,0 +1,8 @@
+streamlit==1.12.0
+joblib
+scikit-learn
+pandas
+numpy
+regex
+xgboost
+langdetect

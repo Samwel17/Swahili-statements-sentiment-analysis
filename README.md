@@ -1,2 +1,8 @@
-# Swahili-statements-sentiment-analysis
-This is a simple application used to analyse the sentiments of the Swahili language into positive, negative and neutral sentiments
+# Swahili Statements Sentiment Analysis Application
+![My Image](Image/emojis.jpg)
+
+# Streamlit Cloud
+
+This is the link to Swahili Statements Sentiment Analysis Application
+
+https://samwel17-group4-swahili-tweets-sentiment-analysi-swahili-ssnzmd.streamlitapp.com/
